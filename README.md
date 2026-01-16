@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alhaziq/alhaziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+### Backend Developer • Reacion Vid Addict • Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## About Me
+
+I'm a backend developer building financial systems that process transactions, manage data pipelines, and power banking operations at scale.
+
+- 🔭 Working on modern web applications
+- 🌱 Learning Kafka
+- 💬 Ask me about Java, or coffee recommendations
+- 📫 Reach me at **amirulalhaziq37@gmail.com**
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Project Alpha
+A beautiful, minimalist portfolio template built with Next.js and Tailwind.
+
+**Tech:** React • TypeScript • Tailwind
+
+</td>
+<td width="50%">
+
+### 🚀 Project Beta
+RREST API for Transaction Management - a practical system for tracking financial transactions with categories, tags, and analytics.
+
+**Tech:** React • Javascript • CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+</table>
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirulalhaziq.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirul-al-haziq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirulalhaziq37@email.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+<br>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
