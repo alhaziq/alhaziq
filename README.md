@@ -4,6 +4,8 @@
 
 ### Backend Developer • Reacion Vid Addict • Lifelong Learner
 
+![Zach Campbell shocked](assets/kuawop-kaori.gif)
+
 </div>
 
 <br>
@@ -40,8 +42,6 @@ RREST API for Transaction Management - a practical system for tracking financial
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
 </table>
 
@@ -61,7 +61,7 @@ RREST API for Transaction Management - a practical system for tracking financial
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+![Zach Campbell shocked](assets/stan-twitter-mannequinney.gif)
 
 <br>
 
