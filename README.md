@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Amirul 👋
 
 ### Backend Developer • Reacion Vid Addict • Lifelong Learner
 
