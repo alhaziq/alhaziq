@@ -1,70 +1,17 @@
-<div align="center">
+# Amirul Al Haziq
 
-# Hi, I'm Amirul 👋
+Backend developer building transaction systems for banking.
 
-### Backend Developer • Reacion Vid Addict • Lifelong Learner
+I work on transaction processing, data pipelines and banking operations, mostly in Java. Right now I'm learning Kafka.
 
-![Zach Campbell shocked](assets/kuawop-kaori.gif)
+<img src="assets/kuawop-kaori.gif" width="320" alt="Zach Campbell staring at a laptop in shock">
 
-</div>
+*me reading my own code from last year*
 
-<br>
+### Projects
 
-## About Me
+**[transaction-api](https://github.com/alhaziq/transaction-api)**: a transaction tracker built with React and Tailwind.
 
-I'm a backend developer building financial systems that process transactions, manage data pipelines, and power banking operations at scale.
+### Contact
 
-- 🔭 Working on modern web applications
-- 🌱 Learning Kafka
-- 💬 Ask me about Java, or coffee recommendations
-- 📫 Reach me at **amirulalhaziq37@gmail.com**
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Project Alpha
-A beautiful, minimalist portfolio template built with Next.js and Tailwind.
-
-**Tech:** React • TypeScript • Tailwind
-
-</td>
-<td width="50%">
-
-### 🚀 Project Beta
-RREST API for Transaction Management - a practical system for tracking financial transactions with categories, tags, and analytics.
-
-**Tech:** React • Javascript • CSS
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-## Let's Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirulalhaziq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirul-al-haziq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirulalhaziq37@email.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Zach Campbell shocked](assets/stan-twitter-mannequinney.gif)
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+[Website](https://amirulalhaziq.com) · [LinkedIn](https://linkedin.com/in/amirul-al-haziq) · [Email](mailto:amirulalhaziq37@gmail.com)
